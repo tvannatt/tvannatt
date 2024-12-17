@@ -8,6 +8,8 @@
 - You can find my relevant projects below:
   - [Youtube PL/SQL Exercise](https://github.com/tvannatt/CNIT-372-Youtube-Data-Retrieval-Project-)
   - [RecMate Planner](https://github.com/tvannatt/CNIT355_Project)
+  - [GambleServerImplement](https://github.com/tvannatt/GambleServerImplement)
+    - Interface for [GambleServer}() 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
