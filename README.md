@@ -9,7 +9,7 @@
   - [Youtube PL/SQL Exercise](https://github.com/tvannatt/CNIT-372-Youtube-Data-Retrieval-Project-)
   - [RecMate Planner](https://github.com/tvannatt/CNIT355_Project)
   - [GambleServerImplement](https://github.com/tvannatt/GambleServerImplement)
-    - Interface for [GambleServer}() 
+    - Interface for [GambleServer](https://github.com/tvannatt/GambleServer) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
