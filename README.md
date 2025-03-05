@@ -3,7 +3,7 @@
 
 - Currently, I'm a Project Manager for [EPICS @ Purdue!](https://www.linkedin.com/company/epics-disc/posts/?feedView=all)
 
-- At Purdue, I'm focusing on: **Data Governance, Database Management, IT Project Analysis, and IT Project Management.**
+- At Purdue, I'm focusing on: **Database Management, IT Technical Analytics, and IT Project Management.**
 
 - You can find my relevant projects below:
   - [Youtube PL/SQL Exercise](https://github.com/tvannatt/CNIT-372-Youtube-Data-Retrieval-Project-)
